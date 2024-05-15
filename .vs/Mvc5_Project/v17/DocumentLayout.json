@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|f:\\r-56 robin\\projects\\mvc projects\\1279757_md_thuaha\\mvc5_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\mvc5_project\\views\\groupings\\groupingbyproductname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\views\\groupings\\groupingbyproductname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\mvc5_project\\views\\groupings\\groupingbysaledate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\views\\groupings\\groupingbysaledate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\mvc5_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\mvc5_project\\controllers\\groupingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\controllers\\groupingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\mvc5_project\\views\\groupings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\views\\groupings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\mvc5_project\\viewmodels\\groupeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\viewmodels\\groupeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\mvc5_project\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3922D751-8843-4AE5-8C5F-7BC71F24FBC8}|Mvc5_Project\\Mvc5_Project.csproj|solutionrelative:mvc5_project\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc5_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mvc5_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T03:23:54.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupingBySaleDate.cshtml",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Groupings\\GroupingBySaleDate.cshtml",
+              "RelativeDocumentMoniker": "Mvc5_Project\\Views\\Groupings\\GroupingBySaleDate.cshtml",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Groupings\\GroupingBySaleDate.cshtml",
+              "RelativeToolTip": "Mvc5_Project\\Views\\Groupings\\GroupingBySaleDate.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-05-13T03:23:55.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupingByProductName.cshtml",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Groupings\\GroupingByProductName.cshtml",
+              "RelativeDocumentMoniker": "Mvc5_Project\\Views\\Groupings\\GroupingByProductName.cshtml",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Groupings\\GroupingByProductName.cshtml",
+              "RelativeToolTip": "Mvc5_Project\\Views\\Groupings\\GroupingByProductName.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-05-13T03:23:55.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mvc5_Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mvc5_Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-05-13T03:23:55.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Groupings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc5_Project\\Views\\Groupings\\Index.cshtml",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Groupings\\Index.cshtml",
+              "RelativeToolTip": "Mvc5_Project\\Views\\Groupings\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-05-13T03:23:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupingsController.cs",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Controllers\\GroupingsController.cs",
+              "RelativeDocumentMoniker": "Mvc5_Project\\Controllers\\GroupingsController.cs",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Controllers\\GroupingsController.cs",
+              "RelativeToolTip": "Mvc5_Project\\Controllers\\GroupingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:23:55.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupedData.cs",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\ViewModels\\GroupedData.cs",
+              "RelativeDocumentMoniker": "Mvc5_Project\\ViewModels\\GroupedData.cs",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\ViewModels\\GroupedData.cs",
+              "RelativeToolTip": "Mvc5_Project\\ViewModels\\GroupedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:23:55.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mvc5_Project\\Views\\Products\\Create.cshtml",
+              "ToolTip": "F:\\R-56 Robin\\Projects\\MVC Projects\\1279757_Md_Thuaha\\Mvc5_Project\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Mvc5_Project\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-05-13T03:23:55.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

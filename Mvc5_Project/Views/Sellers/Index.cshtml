@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Mvc5_Project.Models.Seller>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-12" id="placeholder">
+
+        @Html.Action("SellersTable", "Sellers")
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        $(".del").click(function () {
+            var id = $(this).data("pk");
+            var trC = $(this).closest('tr');
+
+            if (confirm("Are you sure to delete Seller?")) {
+                $.ajax({
+                    url: "/Sellers/Delete/" + id,
+                    method: "post",
+                    dataType: "json",
+                    success: r => {
+                        if (r.success == true) {
+                            trC.remove();
+
+                        }
+                    }
+                })
+            }
+        });
+    </script>
+}
+

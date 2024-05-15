@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Mvc5_Project.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h2>Aggregates</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Agg. Function</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        Count
+                    </td>
+                    <td>
+                        @Model.Count()
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Max
+                    </td>
+                    <td>
+                        Price Max: @Model.Max(x => x.Price)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Min
+                    </td>
+                    <td>
+                        Price Min: @Model.Min(x => x.Price)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Average
+                    </td>
+                    <td>
+                        Price Average: @Model.Average(x => x.Price)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Sum
+                    </td>
+                    <td>
+                        Price Sum: @Model.Sum(x => x.Price)
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

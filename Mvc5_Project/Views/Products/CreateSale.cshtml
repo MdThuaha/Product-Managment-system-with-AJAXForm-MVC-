@@ -1,0 +1,42 @@
+﻿@model Mvc5_Project.Models.Sale
+@{
+    ViewBag.Title = "CreateSale";
+}
+
+<h2>CeateSale</h2>
+<div class="row">
+    <div class="col-12">
+        @using (Html.BeginForm("CreateSale", "Products", FormMethod.Post))
+        {
+
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.ProductId, new { @class = "col-from-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.DropDownListFor(x => x.ProductId, new SelectList(ViewBag.Products, "ProductId", "ProductName"), "Select Product", new { @class = "form-select" })
+                    @Html.ValidationMessageFor(x => x.ProductId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.SaleDate, new { @class = "col-form-lable col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.SaleDate, new { @class = "form-control", type = "date", @Value = DateTime.Today.ToString("yyyy-MM-dd") })
+                    @Html.ValidationMessageFor(x => x.SaleDate, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Quantity, new { @class = "col-form-lable col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.Quantity, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Quantity, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <button type="submit" name="act" value="add" class="btn btn-info">save</button>
+        }
+        
+    </div>
+</div>
+<div class="col-12">
+    @Html.ActionLink("Return to Product list", "Index")
+</div>
+

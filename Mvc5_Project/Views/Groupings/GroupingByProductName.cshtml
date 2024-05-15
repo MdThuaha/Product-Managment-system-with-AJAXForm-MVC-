@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Mvc5_Project.ViewModels.GroupedData>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Grouping by Productname</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Data</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td>
+                    @x.Key
+                </td>
+                <td>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Sale Date</th>
+                                <th></th>
+                                <th>Quantity</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var s in x.Data)
+                            {
+                                <tr>
+                                    <td>@s.SaleDate.ToString("yyyy-MM-dd")</td>
+                                    <td></td>
+                                    <td>@s.Quantity</td>
+                                </tr>
+                            }
+                            
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+
